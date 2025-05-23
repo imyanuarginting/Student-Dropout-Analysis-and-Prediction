@@ -332,8 +332,8 @@ def main():
     # Tombol untuk memulai prediksi
     if st.button('Prediksi'):
         # Load model
-        model = load_model('Include/lr_model.pkl')
-        scaler = load_scaler('Include/scaler.pkl')
+        model = load_model('lr_model.pkl')
+        scaler = load_scaler('scaler.pkl')
 
         # Masukkan data ke dalam dictionary
         input_data = {
