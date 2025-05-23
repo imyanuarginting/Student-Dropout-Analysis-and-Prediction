@@ -57,7 +57,7 @@ Melalui pendekatan ini, Jaya Jaya Institut berharap dapat menurunkan angka dropo
 
 * link Streamlit untuk Melakukan Prediksi
     ```
-    https://www.streamlit.com
+    https://student-dropout-analysis-and-prediction-by-imyanuarginting.streamlit.app/
     ```
 
 Setup environment Jika Belum Membuat Container Metabase:
