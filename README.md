@@ -60,13 +60,13 @@ Melalui pendekatan ini, Jaya Jaya Institut berharap dapat menurunkan angka dropo
     https://student-dropout-analysis-and-prediction-by-imyanuarginting.streamlit.app/
     ```
 
-Setup environment Jika Belum Membuat Container Metabase:
+Setup Environment Jika Belum Membuat Container Metabase:
 ```
 docker pull metabase/metabase:latest
 docker run -p 3000:3000 --name metabase metabase/metabase
 ```
 
-Setup environment Jika Sudah Membuat Container Metabase Sebelumnya:
+Setup Environment Jika Sudah Membuat Container Metabase Sebelumnya:
 ```
 docker start metabase
 ```
