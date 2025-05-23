@@ -8,24 +8,24 @@ Namun, meskipun memiliki reputasi yang solid, Jaya Jaya Institut saat ini tengah
 
 Pihak manajemen menyadari bahwa penyebab dropout ini bersifat multifaktor dan tidak bisa ditangani dengan pendekatan konvensional semata. Oleh karena itu, institusi ingin menerapkan pendekatan berbasis data untuk:
 
-    * Mengidentifikasi faktor-faktor yang paling berpengaruh terhadap kemungkinan mahasiswa mengalami dropout.
-    * Mengembangkan sistem pemantauan berbasis dashboard yang dapat digunakan oleh pihak institusi (akademik, dosen pembimbing, dan manajemen) untuk memantau status risiko mahasiswa dan melakukan intervensi sedini mungkin.
-    * (Opsional) Memprediksi mahasiswa yang berisiko tinggi untuk dropout di masa depan, guna diarahkan ke program bimbingan atau dukungan yang lebih personal.
+   * Mengidentifikasi faktor-faktor yang paling berpengaruh terhadap kemungkinan mahasiswa mengalami dropout.
+   * Mengembangkan sistem pemantauan berbasis dashboard yang dapat digunakan oleh pihak institusi (akademik, dosen pembimbing, dan manajemen) untuk memantau status risiko mahasiswa dan melakukan intervensi sedini mungkin.
+   * (Opsional) Memprediksi mahasiswa yang berisiko tinggi untuk dropout di masa depan, guna diarahkan ke program bimbingan atau dukungan yang lebih personal.
 
 Melalui pendekatan ini, Jaya Jaya Institut berharap dapat menurunkan angka dropout, meningkatkan efektivitas proses pembelajaran, dan memastikan lebih banyak mahasiswa dapat menyelesaikan pendidikan mereka dengan baik.
 
 ### Permasalahan Bisnis
 
-    * Pihak institusi kesulitan dalam mengidentifikasi karakteristik dan faktor-faktor utama yang menyebabkan mahasiswa mengalami dropout.
-    * Jaya Jaya Institut belum memiliki sistem pemantauan yang efektif untuk mendeteksi dan mengantisipasi risiko dropout mahasiswa secara dini dan real-time.
-    * Upaya intervensi terhadap mahasiswa berisiko saat ini masih bersifat reaktif dan tidak terarah karena belum berbasis data.
-    * Tidak adanya sistem prediktif yang dapat membantu institusi memprioritaskan perhatian atau sumber daya kepada mahasiswa yang paling membutuhkan dukungan.
+   * Pihak institusi kesulitan dalam mengidentifikasi karakteristik dan faktor-faktor utama yang menyebabkan mahasiswa mengalami dropout.
+   * Jaya Jaya Institut belum memiliki sistem pemantauan yang efektif untuk mendeteksi dan mengantisipasi risiko dropout mahasiswa secara dini dan real-time.
+   * Upaya intervensi terhadap mahasiswa berisiko saat ini masih bersifat reaktif dan tidak terarah karena belum berbasis data.
+   * Tidak adanya sistem prediktif yang dapat membantu institusi memprioritaskan perhatian atau sumber daya kepada mahasiswa yang paling membutuhkan dukungan.
 
 ### Cakupan Proyek
 
-    * Melakukan identifikasi terhadap faktor-faktor utama yang berkontribusi terhadap tingginya tingkat dropout mahasiswa di Jaya Jaya Institut.
-    * Mengembangkan dashboard interaktif yang mudah digunakan untuk membantu pihak institusi memantau performa mahasiswa serta indikator risiko dropout.
-    * Membangun sistem prediksi dengan tingkat akurasi yang memadai untuk mengidentifikasi mahasiswa yang berisiko tinggi mengalami dropout secara dini (Opsional).
+   * Melakukan identifikasi terhadap faktor-faktor utama yang berkontribusi terhadap tingginya tingkat dropout mahasiswa di Jaya Jaya Institut.
+   * Mengembangkan dashboard interaktif yang mudah digunakan untuk membantu pihak institusi memantau performa mahasiswa serta indikator risiko dropout.
+   * Membangun sistem prediksi dengan tingkat akurasi yang memadai untuk mengidentifikasi mahasiswa yang berisiko tinggi mengalami dropout secara dini (Opsional).
 
 ### Persiapan
 
