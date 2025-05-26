@@ -32,8 +32,8 @@ Melalui pendekatan ini, Jaya Jaya Institut berharap dapat menurunkan angka dropo
 * Download Sumber Data
     * Sumber data: https://drive.google.com/file/d/17_IWXwx29Na0qdPPUYLqJ2B4Z_uU4EHq/view?usp=sharing
     * Dependensi: https://drive.google.com/file/d/1spy3iS9xs_y-e9iLA-UETcRJH7uzCmFc/view?usp=sharing
-    * File untuk menjalankan aplikasi secara lokal untuk melakukan prediksi (app.py): 
-    * Setelah file (app.py) terunduh, simpan file yang telah terunduh di lokasi tempat virtual environment berada (D:\Project\ML\Student-Dropout-Analysis-and-Prediction), untuk cara membuat virtual environment akan dijelaskan setelah ini.
+    * File untuk menjalankan aplikasi secara lokal untuk melakukan prediksi (prediction.zip): https://drive.google.com/file/d/1aSHMKR1oT9G1jP-l-GoKGSuGBkb34CnW/view?usp=sharing
+    * Setelah file terunduh, lakukan ekstrak file untuk format .zip (prediction.zip) lalu simpan semua file yang telah terunduh di lokasi tempat virtual environment berada (D:\Project\ML\Student-Dropout-Analysis-and-Prediction), untuk cara membuat virtual environment akan dijelaskan setelah ini.
 
 * Membuat, Mengaktifkan Virtual Environment, dan Menginstal Dependensi
     * Jalankan perintah berikut di terminal laptop/PC kalian:
